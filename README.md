@@ -1,2 +1,3 @@
-# simple-shop
-Simple shop on vue.js
+# Simple shop
+
+Простой магазин на vue.js
